@@ -1,0 +1,43 @@
+{
+  "name": "jamknife-loading-screen",
+  "version": "1.0.0",
+  "description": "The loading screen for JamKnife servers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamKnife-Me/jamknife-loading-screen.git"
+  },
+  "author": "Kyle Ratti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamKnife-Me/jamknife-loading-screen/issues"
+  },
+  "homepage": "https://github.com/JamKnife-Me/jamknife-loading-screen#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "@webpack-cli/serve": "^0.2.0",
+    "cross-env": "^7.0.2",
+    "css-loader": "^3.5.3",
+    "dotenv-webpack": "^1.8.0",
+    "file-loader": "^6.0.0",
+    "gh-pages": "^3.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-snap": "^1.23.0",
+    "rimraf": "^3.0.2",
+    "sass": "^1.26.8",
+    "sass-loader": "^8.0.2",
+    "ts-loader": "^7.0.5",
+    "ts-node": "^8.10.2",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.5",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
